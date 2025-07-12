@@ -18,7 +18,7 @@ function Header() {
     setAuthMode(mode);
     setShowAuthModal(true);
   };
-
+  //header
   return (
     <motion.header
       initial={{ y: -100 }}
